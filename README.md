@@ -1,17 +1,21 @@
-### Hi there 👋
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
-
+Welcome to my page !!
+I'm Jimmy, still a student in colledge, interesting in coding.
+Feel free to have any exchange with me ~
 
 ## **😄 About Me**
 
-+ Currentlt Student in NTHU
++ Currently a  fourth year student in NTHU, major in IEEM & minor in CS.
++ 
+
+## **🌱Rearch / Interesting Area** 
+
++ Computer Vision (especially in Autonomous Vehicle)
++ Machine Learning 
 
 ## **🔭 Languages & Tools**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmylin0979&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmylin0979&layout=compact&show_icons=true">
+![Anurag's Guthub stats](https://github-readme-stats.vercel.app/api?username=jimmylin0979&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmylin0979&layout=compact&show_icons=true&theme=dark)
 
 
 
