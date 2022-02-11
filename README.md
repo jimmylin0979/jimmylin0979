@@ -14,8 +14,8 @@ Feel free to have any exchange with me ~
 
 ## **🔭 Languages & Tools**
 
-![Anurag's Guthub stats](https://github-readme-stats.vercel.app/api?username=jimmylin0979&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmylin0979&layout=compact&show_icons=true&theme=dark)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmylin0979&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmylin0979&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
